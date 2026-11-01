@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="512" height="512">
+<defs><linearGradient id="top" gradientUnits="userSpaceOnUse" x1="0" y1="3" x2="0" y2="20"><stop offset="0" stop-color="#9deaff"/><stop offset="1" stop-color="#9eefff"/></linearGradient><linearGradient id="left" gradientUnits="userSpaceOnUse" x1="3" y1="0" x2="20" y2="0"><stop offset="0" stop-color="#50caed"/><stop offset="1" stop-color="#50c8ed"/></linearGradient><linearGradient id="right" gradientUnits="userSpaceOnUse" x1="100" y1="0" x2="117" y2="0"><stop offset="0" stop-color="#2c92cc"/><stop offset="1" stop-color="#2d92cd"/></linearGradient><linearGradient id="bottom" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="0" y2="117"><stop offset="0" stop-color="#1b6c9e"/><stop offset="1" stop-color="#1c73a4"/></linearGradient><linearGradient id="face" gradientUnits="userSpaceOnUse" x1="0" y1="20" x2="0" y2="100"><stop offset="0" stop-color="#4fbfec"/><stop offset="0.5" stop-color="#41b6e2"/><stop offset="1" stop-color="#2faad9"/></linearGradient></defs>
+<path fill="#04445a" d="M0 0H120V120H0Z"/>
+<path fill="url(#top)" d="M3 3H117L100 20H20Z"/>
+<path fill="url(#left)" d="M3 3L20 20V100L3 117Z"/>
+<path fill="url(#right)" d="M117 3L100 20V100L117 117Z"/>
+<path fill="url(#bottom)" d="M3 117L20 100H100L117 117Z"/>
+<path fill="url(#face)" d="M20 20H100V100H20Z"/>
+</svg>
